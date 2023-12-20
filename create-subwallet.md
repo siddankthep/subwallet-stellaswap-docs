@@ -182,3 +182,17 @@ On the next screen, you can review the transaction details and submit the transa
 ![Approve transaction](/subwallet-imgs/subwallet-26.png)
 
 After you send the transaction, you will be able to review the transaction details.
+
+### Connect to the StellaSwap Gateway
+
+First, head to the [StellaSwap DEX Gateway](https://app.stellaswap.com/exchange/swap). 
+
+![StellaSwap DEX](/subwallet-imgs/subwallet-27.png)
+
+To connect your wallet to StellaSwap, click on **Connect to a wallet** then choose SubWallet.
+
+![Conenct wallet](/subwallet-imgs/subwallet-28.png)
+
+A window will appear. Choose the account that you would like to connect then choose **Connect**. Approve the connection and you have successfully connected to the StellaSwap DEX Gateway!
+
+![Choose accounts](/subwallet-imgs/subwallet-29.png)
