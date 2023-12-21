@@ -1,6 +1,6 @@
 # Create a wallet with SubWallet
 
-SubWallet is the comprehensive non-custodial wallet solution for Polkadot, Substrate & Ethereum ecosystems. Built on top of Polkadot {.js}, SubWallet focuses on improving UX & UI. We envision a crypto wallet as a Web3 multiverse gateway through which users can enjoy multi-chain services with utmost ease and absolute security. 
+SubWallet is the comprehensive non-custodial wallet solution for Polkadot, Substrate & Ethereum ecosystems. Built on top of Polkadot {.js}, SubWallet focuses on improving UX & UI. We envision a crypto wallet as a Web3 multiverse dApp through which users can enjoy multi-chain services with utmost ease and absolute security. 
 This guide will show you how to manage your accounts, connect to and interact with StellaSwap using SubWallet!
 
 ## Step 1: Install SubWallet
@@ -183,16 +183,16 @@ On the next screen, you can review the transaction details and submit the transa
 
 After you send the transaction, you will be able to review the transaction details.
 
-### Connect to the StellaSwap Gateway
+### Connect to the StellaSwap dApp
 
-First, head to the [StellaSwap DEX Gateway](https://app.stellaswap.com/exchange/swap). 
+First, head to the [StellaSwap dApp](https://app.stellaswap.com/exchange/swap). 
 
-![StellaSwap DEX](/subwallet-imgs/subwallet-27.png)
+![StellaSwap](/subwallet-imgs/subwallet-27.png)
 
 To connect your wallet to StellaSwap, click on **Connect to a wallet** then choose SubWallet.
 
 ![Conenct wallet](/subwallet-imgs/subwallet-28.png)
 
-A window will appear. Choose the account that you would like to connect then choose **Connect**. Approve the connection and you have successfully connected to the StellaSwap DEX Gateway!
+A window will appear. Choose the account that you would like to connect then choose **Connect**. Approve the connection and you have successfully connected to the StellaSwap dApp!
 
 ![Choose accounts](/subwallet-imgs/subwallet-29.png)
